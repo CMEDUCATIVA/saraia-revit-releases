@@ -2,19 +2,20 @@
 
 Instaladores públicos de SaraIA, el asistente de IA para Autodesk Revit. Cada versión tiene su etiqueta y una [Release](../../releases) con el instalador adjunto.
 
-**Última versión: [v1.2.1](../../releases/tag/v1.2.1)** · [Descargar el instalador](https://github.com/CMEDUCATIVA/saraia-revit-releases/releases/download/v1.2.1/SaraIA_Revit_v1.2.1_6042617_Setup.exe)
+**Última versión: [v1.2.2](../../releases/tag/v1.2.2)** · [Descargar el instalador](https://github.com/CMEDUCATIVA/saraia-revit-releases/releases/download/v1.2.2/SaraIA_Revit_v1.2.2_7a39462_Setup.exe)
 
 ## Versiones
 
 | Versión | Fecha | Revit | Instalador | SHA-256 |
 |---|---|---|---|---|
+| [1.2.2](../../releases/tag/v1.2.2) | 2026-11-25 | 2022 a 2027 | `SaraIA_Revit_v1.2.2_7a39462_Setup.exe` | `669fa281122ba55c12fe46abfac0af3855022324217a2bd6be3204a5d05019b0` |
 | [1.2.1](../../releases/tag/v1.2.1) | 2026-11-09 | 2022 a 2027 | `SaraIA_Revit_v1.2.1_6042617_Setup.exe` | `ac0044ffe08ad6c2e7a87a7716731761e055d05ca9452d88b3246f9a5e9d1380` |
 | [1.2.0](../../releases/tag/v1.2.0) | 2026-10-22 | 2022 a 2027 | `SaraIA_Revit_v1.2.0_b87a2be_Setup.exe` | `6b7146f3c349bc415375a4456fb5b9a8a37177f3574af31fc0b25f606d13371e` |
 
 ## Instalar
 
 1. Guarda tu trabajo y cierra Revit.
-2. Descarga el instalador de la última versión y, si quieres, comprueba su SHA-256 (en PowerShell: `Get-FileHash .\SaraIA_Revit_v1.2.1_6042617_Setup.exe`).
+2. Descarga el instalador de la última versión y, si quieres, comprueba su SHA-256 (en PowerShell: `Get-FileHash .\SaraIA_Revit_v1.2.2_7a39462_Setup.exe`).
 3. Ejecútalo y elige las versiones de Revit donde quieres SaraIA. Si detecta una instalación anterior, ofrece limpiarla.
 4. Abre Revit: aparece la pestaña **SaraIA**.
 
